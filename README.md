@@ -9,11 +9,11 @@ Video relevance computation is one of the most important tasks for personalized 
 
 The main task of this challenge is to predict the relevance between TV-shows or movies from the video contents. Specifically, there are two separated tracks for TV-shows and movies respectively. The following components will be publicly available under this challenge:
 
-Track 1: TV-shows
+### Track 1: TV-shows
 
 Over 7,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set – 3,000 shows, validation set – over 800 shows, and testing set – 3,000 shows.
 
-Track 2: Movies
+### Track 2: Movies
 
 Over 10,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set – 4,500 shows, validation set – over 1000 shows, and testing set – 4,500 shows.
 
@@ -36,7 +36,9 @@ TBD
 ## Organizers
 
 Mengyi Liu (mengyi.liu@hulu.com) Hulu LLC.
+
 Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.
+
 Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 ## Contact
