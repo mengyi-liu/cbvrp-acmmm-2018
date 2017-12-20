@@ -15,7 +15,7 @@ Over 7,000 TV-shows with pre-extracted features from their video trailers. The w
 
 #### Track 2: Movies
 
-Over 10,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (4,500 shows), validation set (over 1000 shows), and testing set (4,500 shows).
+Over 10,000 movies with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (4,500 movies), validation set (over 1000 movies), and testing set (4,500 movies).
 
 For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from massive user behaviors.
  
