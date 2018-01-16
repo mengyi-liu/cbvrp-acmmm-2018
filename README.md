@@ -11,7 +11,7 @@ The main task of this challenge is to predict the relevance between TV-shows or 
 
 #### Track 1: TV-shows
 
-Over 7,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (3,000 shows), validation set (over 800 shows), and testing set (3,000 shows).
+Nearly 7,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (3,000 shows), validation set (over 800 shows), and testing set (3,000 shows).
 
 #### Track 2: Movies
 
