@@ -19,7 +19,7 @@ Over 10,000 movies with pre-extracted features from their video trailers. The wh
 
 For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from massive user behaviors.
  
-The proposed methods will be evaluated based on mean Average Precision (mAP) regarding to top K prediction (the value of K is TBD). We will provide the python script to compute mAP for evaluation.
+The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is TBD). We will provide the python script to compute recall for evaluation.
 
 ## Registration
 
