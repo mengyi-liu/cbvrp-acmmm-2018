@@ -7,17 +7,17 @@ Video relevance computation is one of the most important tasks for personalized 
 
 ## Task and Data
 
-The main task of this challenge is to predict the relevance between TV-shows or movies from the video contents. Specifically, there are two separated tracks for TV-shows and movies respectively. The following components will be publicly available under this challenge:
+The main task of this challenge is to predict the relevance between TV-shows or movies from video content and its features. Specifically, there are two separated tracks for TV-shows and movies respectively. The following components will be publicly available under this challenge:
 
 #### Track 1: TV-shows
 
-Nearly 7,000 TV-shows with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (3,000 shows), validation set (over 800 shows), and testing set (3,000 shows).
+Pre-extracted features derived from nearly 7,000 TV-show video trailers. The whole set is divided into 3 subsets: training set (3,000 shows), validation set (over 800 shows), and testing set (3,000 shows).
 
 #### Track 2: Movies
 
-Over 10,000 movies with pre-extracted features from their video trailers. The whole set is divided into 3 subsets: training set (4,500 movies), validation set (over 1000 movies), and testing set (4,500 movies).
+Pre-extracted features derived from over 10,000 movie video trailers. The whole set is divided into 3 subsets: training set (4,500 movies), validation set (over 1000 movies), and testing set (4,500 movies).
 
-For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from massive user behaviors.
+For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from massive user behaviors. Note that, the user behavior data has been deliberately cleaned to avoid any kind of privacy disclosure.
  
 The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is TBD). We will provide the python script to compute recall for evaluation.
 
