@@ -3,7 +3,7 @@
 
 (This challenge is fully sponsored by Hulu.)
 
-Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and user behaviors, the system can provide personalized recommendation, which will help the user to discover more contents of interests. In most online service, the computation of video relevance table is based on the user implicit feedbacks, e.g. watching and searching history. That is, the system analyzes the user-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly on “cold-start” problems - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little user behavior known. One promising approach to solve “cold-start” is exploiting video content for relevance prediction, i.e. we can predict the video relevance by analyzing the content of videos including image pixels, audios, subtitles and metadata. Since understanding the content of the videos is still a challenging task, the aim of this challenge is to explore efficient ways to do content-based video relevance prediction tasks for recommendation system.
+Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and user behaviors, the system can provide personalized recommendations, which will help the user to discover more content of interest. In most online service, the computation of video relevance table is based on the user's implicit feedback, e.g. watch and search history. That is, the system analyzes the user-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly for “cold-start” problems - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little user behavior known. One promising approach to solve “cold-start” is exploiting video content for relevance prediction, i.e. we can predict the video relevance by analyzing the content of videos including image pixels, audios, subtitles and metadata. Since understanding the content of videos is still a challenging task, the aim of this challenge is to explore efficient ways to do content-based video relevance prediction tasks for recommendation systems.
 
 ## Task and Data
 
@@ -23,7 +23,7 @@ The proposed methods will be evaluated based on recall rate regarding to top K p
 
 ## Registration
 
-To register the challenge and get access to the dataset, the participants should fill in an application form. After submitting the application form, we will send the download link by email within 2 working days.
+To register for the challenge and get access to the dataset, the participants should fill out in an application form. After submitting the application form, we will send the download link by email within 2 working days.
 
 ## Submission
 
