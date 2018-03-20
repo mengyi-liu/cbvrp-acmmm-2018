@@ -23,7 +23,7 @@ The proposed methods will be evaluated based on recall rate regarding to top K p
 
 ## Registration
 
-To register for the challenge and get access to the dataset, please complete the online [Agreement Form](https://freeonlinesurveys.com/s/lDBaYlvA). We will send you the download instructions by email after the challenge data available date (Apr. 20th, 2018).
+To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/lDBaYlvA). We will send you the download instructions by email after the challenge data available date (Apr. 20th, 2018).
 
 ## Submission
 
