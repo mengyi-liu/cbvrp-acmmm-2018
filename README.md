@@ -31,7 +31,11 @@ TBD
 
 ## Schedule
 
-TBD
+Registration Open: Mar. 20th, 2018 
+Data Available: Apr. 20th, 2018 
+Results Submission Deadline: Jul. 1st, 2018 
+Paper Submission Deadline: Jul. 8th, 2018 
+Notification of Acceptance: Aug. 5th, 2018 
 
 ## Organizers
 
