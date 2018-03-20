@@ -32,7 +32,7 @@ TBD
 ## Schedule
 
 Registration Open: Mar. 20th, 2018.   
-Data Available: Apr. 20th, 2018.   
+Challenge Data Available: Apr. 20th, 2018.   
 Results Submission Deadline: Jul. 1st, 2018.   
 Paper Submission Deadline: Jul. 8th, 2018.   
 Notification of Acceptance: Aug. 5th, 2018.   
@@ -45,4 +45,4 @@ Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.
 
 ## Contact
 
-If you have any question, please send email to cbvrp-acmmm-2018@hulu.com
+If you have any question, please send email to cbvrp-acmmm-2018@hulu.com.
