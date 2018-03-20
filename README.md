@@ -23,7 +23,7 @@ The proposed methods will be evaluated based on recall rate regarding to top K p
 
 ## Registration
 
-To register for the challenge and get access to the dataset, please attach a scanned copy of the signed [Agreement form](https://github.com/mengyi-liu/cbvrp-acmmm-2018/blob/master/PARTICIPANT%20NONDISCLOSURE%20AND%20INTELLECTUAL%20PROPERTY%20AGREEMENT.pdf) and email to cbvrp-acmmm-2018@hulu.com. we will send you the download instructions after the challenge data available date (Apr. 20th, 2018).
+To register for the challenge and get access to the dataset, please complete the online [Agreement form](https://freeonlinesurveys.com/s/lDBaYlvA). We will send you the download instructions by email after the challenge data available date (Apr. 20th, 2018).
 
 ## Submission
 
