@@ -3,7 +3,7 @@
 
 (This challenge is fully sponsored by Hulu.)
 
-Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and user behaviors, the system can provide personalized recommendations, which will help the user to discover more content of interest. In most online service, the computation of video relevance table is based on the user's implicit feedback, e.g. watch and search history. That is, the system analyzes the user-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly for “cold-start” problems - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little user behavior known. One promising approach to solve “cold-start” is exploiting video content for relevance prediction, i.e. we can predict the video relevance by analyzing the content of videos including image pixels, audios, subtitles and metadata. Since understanding the content of videos is still a challenging task, the aim of this challenge is to explore efficient ways to do content-based video relevance prediction tasks for recommendation systems.
+Video relevance computation is one of the most important tasks for personalized online streaming service. Given the relevance of videos and viewer feedbacks, the system can provide personalized recommendations, which will help the viwer discover more content of interest. In most online service, the computation of video relevance table is based on the viewers' implicit feedback, e.g. watch and search history. The system analyzes the viewer-to-video preference and computes the video-to-video relevance scores using collaborative filtering based methods. However, this kind of method performs poorly for “cold-start” problems - when a new video is added to the library, the recommendation system needs to bootstrap the video relevance score with very little historical viwer feedbacks. One promising approach to solve “cold-start” is ananlyzing video content itself to predict the relevance score, i.e. predicting the video-to-video relevance by analyzing the keyframes, audio, subtitles and metadata. With the relevance score, we can provide better recommendation for our viewers.
 
 ## Task and Data
 
@@ -17,7 +17,7 @@ Pre-extracted features derived from nearly 7,000 TV-show video trailers. The who
 
 Pre-extracted features derived from over 10,000 movie video trailers. The whole set is divided into 3 subsets: training set (4,500 movies), validation set (over 1000 movies), and testing set (4,500 movies).
 
-For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from massive user behaviors. Note that, the user behavior data has been deliberately cleaned to avoid any kind of privacy disclosure.
+For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from implicit viwer feedbacks. The viewer feedbacks have been cleaned to avoid any privacy issues.
  
 The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is TBD). We will provide the python script to compute recall for evaluation.
 
