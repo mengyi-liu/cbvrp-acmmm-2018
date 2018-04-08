@@ -31,11 +31,12 @@ TBD
 
 ## Schedule
 
-Registration Open: Mar. 20th, 2018.   
-Challenge Data Available: Apr. 20th, 2018.   
-Results Submission Deadline: Jul. 1st, 2018.   
-Paper Submission Deadline: Jul. 8th, 2018.   
-Notification of Acceptance: Aug. 5th, 2018.   
+April 2nd: Registration open.   
+April 20th: Challenge data available.   
+July 1st: Deadline for results submission.   
+July 8th: Deadline for paper submission.   
+August 5th: Notification of acceptance.   
+August 31st: Winners submit the tech report and source code.
 
 ## Organizers
 
