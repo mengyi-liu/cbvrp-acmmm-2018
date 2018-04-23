@@ -21,6 +21,21 @@ For training set and validation set in both tracks, we also provide the ground t
  
 The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is TBD). We will provide the python script to compute recall for evaluation.
 
+## Citation
+
+If you use the CBVRP dataset in your work, please cite it as
+ 
+Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline". Avalible from https://github.com/mengyi-liu/cbvrp-acmmm-2018. 2018.
+ 
+BibTex:
+ 
+@article{cbvrp-acmmm-2018,
+  title={Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline.},
+  author={Liu, Mengyi and Xie, Xiaohui and Zhou, Hanning},
+  journal={Dataset available from https://github.com/mengyi-liu/cbvrp-acmmm-2018},
+  year={2018}
+}
+
 ## Registration
 
 To register for the challenge and get access to the dataset, please complete the [Online Agreement Form](https://freeonlinesurveys.com/s/lDBaYlvA). We will send you the download instructions by email after the challenge data available date (Apr. 20th, 2018).
