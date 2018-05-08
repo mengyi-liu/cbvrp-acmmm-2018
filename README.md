@@ -42,7 +42,7 @@ To register for the challenge and get access to the dataset, please complete the
 
 ## Submission
 
-TBD
+The participants should prepare a csv file for testing set (please refer to provided evaluation example to see the format of the submission file) and send the csv file to cbvrp-acmmm-2018@hulu.com. After receiving the submission csv file, we will evaluate the results and send back to the participants by email no later than July 1st.
 
 ## Schedule
 
