@@ -29,7 +29,7 @@ Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction
  
 BibTex:
  
-@article{cbvrp-acmmm-2018,   
+@misc{cbvrp-acmmm-2018,   
   title={Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline.},   
   author={Liu, Mengyi and Xie, Xiaohui and Zhou, Hanning},   
   journal={Dataset available from https://github.com/mengyi-liu/cbvrp-acmmm-2018},   
