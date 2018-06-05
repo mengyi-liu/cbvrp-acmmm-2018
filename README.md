@@ -19,7 +19,7 @@ Pre-extracted features derived from over 10,000 movie video trailers. The whole 
 
 For training set and validation set in both tracks, we also provide the ground truth (relevance lists) derived from implicit viewer feedbacks. The viewer feedbacks have been cleaned to avoid any privacy issues.
  
-The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is TBD). We will provide the python script to compute recall for evaluation.
+The proposed methods will be evaluated based on recall rate regarding to top K prediction (the value of K is 100 as the final criteria). We will provide the python script to compute recall for evaluation.
 
 ## Citation
 
