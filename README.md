@@ -25,14 +25,14 @@ The proposed methods will be evaluated based on recall rate regarding to top K p
 
 If you use the CBVRP dataset in your work, please cite it as
  
-Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline". Available from https://github.com/mengyi-liu/cbvrp-acmmm-2018. 2018.
+Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline". arXiv preprint arXiv:1806.00737. 2018.
  
 BibTex:
  
 @misc{cbvrp-acmmm-2018,   
   title={Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline.},   
   author={Liu, Mengyi and Xie, Xiaohui and Zhou, Hanning},   
-  journal={Dataset available from https://github.com/mengyi-liu/cbvrp-acmmm-2018},   
+  journal={arXiv preprint arXiv:1806.00737},   
   year={2018}   
 }
 
