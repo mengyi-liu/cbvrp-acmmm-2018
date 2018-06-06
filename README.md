@@ -27,7 +27,7 @@ If you use the CBVRP dataset in your work, please cite it as
  
 Mengyi Liu, Xiaohui Xie, Hanning Zhou. "Content-based Video Relevance Prediction Challenge: Data, Protocol, and Baseline". arXiv preprint arXiv:1806.00737. 2018.
 
-The full paper is available from https://arxiv.org/pdf/1806.00737v1.pdf
+The full paper is available from https://arxiv.org/pdf/1806.00737.pdf
  
 BibTex:
  
