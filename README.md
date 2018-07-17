@@ -57,7 +57,7 @@ August 31st: Winners submit the tech report and source code.
 
 ## Organizers
 
-Mengyi Liu (mengyi.liu2012@gmail.com) Hulu LLC.    
+Mengyi Liu (mengyi.liu2012@gmail.com)   
 Peng Wang (peng.wang@hulu.com) Hulu LLC.   
 Xiaohui Xie (xiaohui.xie@hulu.com) Hulu LLC.   
 Hanning Zhou (eric.zhou@hulu.com) Hulu LLC.   
